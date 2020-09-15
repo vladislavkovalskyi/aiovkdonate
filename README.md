@@ -1,0 +1,2 @@
+# aiovkdonate
+Async VKDonate lib
